@@ -1,5 +1,9 @@
 # Churn-Prediction-using-ANN
-This project aims at predicting whether the customer will churn or not. 
+
+This project aims at predicting whether a customer will churn or not. 
+
+![image](https://github.com/user-attachments/assets/49854284-d265-41fd-9b39-42ed154c7303)
+
 
 # About Dataset
 
