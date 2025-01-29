@@ -38,4 +38,4 @@ The dataset consists of 14 attributes and 10000 rows.(RowNumber, CustomerId, Sur
 
 => Output on Streamlit
 
-<img src="https://github.com/user-attachments/assets/fa416714-0bbc-43fd-bbd8-fce3e80e7f95" width="300" height="auto" />
+![image](https://github.com/user-attachments/assets/f6d5571c-1764-4f7b-8e0a-6f0985ced0f4)
